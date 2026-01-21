@@ -1,7 +1,7 @@
 const gallery = [
   { src: "assets/img/foto1.webp", caption: "Outdoor setup - Bear" },
-  { src: "assets/img/foto2.webp", caption: "Outdoor setup - Citadell" },
-  { src: "assets/img/foto3.webp", caption: "Indoor setup - Ceremony" },
+  { src: "assets/img/foto2.webp", caption: "Outdoor setup - Citadel" },
+  { src: "assets/img/foto3.webp", caption: "Indoor setup - Exclusive" },
   { src: "assets/img/foto4.webp", caption: "Indoor setup - Palace" },
   // ide jöhet a többi kép
 ];
