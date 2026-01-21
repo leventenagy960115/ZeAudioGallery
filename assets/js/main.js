@@ -1,8 +1,8 @@
 const gallery = [
-  { src: "assets/img/image1.webp", caption: "Felirat 1" },
-  { src: "assets/img/image2.webp", caption: "Felirat 2" },
-  { src: "assets/img/image3.webp", caption: "Felirat 3" },
-  { src: "assets/img/image4.webp", caption: "Felirat 4" },
+  { src: "assets/img/foto1.webp", caption: "Outdoor setup - Bear" },
+  { src: "assets/img/foto2.webp", caption: "Outdoor setup - Citadell" },
+  { src: "assets/img/foto3.webp", caption: "Indoor setup - Ceremony" },
+  { src: "assets/img/foto4.webp", caption: "Indoor setup - Palace" },
   // ide jöhet a többi kép
 ];
 
