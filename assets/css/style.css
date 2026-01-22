@@ -45,6 +45,20 @@ body {
   box-sizing: border-box;
 }
 
+.lightbox-img {
+  max-width: 100vw;
+  max-height: 100vh;
+  width: auto;
+  height: auto;
+}
+
+.lightbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
 .lightbox-content {
   position: relative;
   width: 100%;
